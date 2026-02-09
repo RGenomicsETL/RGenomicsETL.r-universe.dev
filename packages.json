@@ -1,4 +1,4 @@
 [
-    { "package": "Rduckhts", "url": "https://github.com/RGenomicsETL/duckhts/r/Rduckhts"},
+    { "package": "Rduckhts", "url": "https://github.com/RGenomicsETL/duckhts/", "subdir": "r/Rduckhts"},
     { "package": "RBCFTools", "url": "https://github.com/RGenomicsETL/RBCFTools"}
 ]
