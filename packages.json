@@ -13,6 +13,7 @@
     { "package": "Ropendal", "url": "https://github.com/RGenomicsETL/Ropendal" },
     { "package": "Rpgen", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rpgen" },
     { "package": "Rzarrs", "url": "https://github.com/RGenomicsETL/Rzarrs" },
+    { "package": "XCNV", "url": "https://github.com/RGenomicsETL/XCNV" },
     { "package": "ducksemantics", "url": "https://github.com/RGenomicsETL/ducksemantics" },
     { "package": "rho.agent", "url": "https://github.com/RGenomicsETL/Rho", "subdir": "packages/rho.agent" },
     { "package": "rho.ai", "url": "https://github.com/RGenomicsETL/Rho", "subdir": "packages/rho.ai" },
