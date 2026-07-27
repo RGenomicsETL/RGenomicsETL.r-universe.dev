@@ -4,6 +4,7 @@
     { "package": "RClinVarbitration", "url": "https://github.com/RGenomicsETL/RClinVarbitration" },
     { "package": "Rbebelm", "url": "https://github.com/RGenomicsETL/Rbebelm" },
     { "package": "Rduckhts", "url": "https://github.com/RGenomicsETL/duckhts/", "subdir": "r/Rduckhts" },
+    { "package": "RGlimpse2", "url": "https://github.com/RGenomicsETL/RGlimpse2", "subdir": "RGlimpse2" },
     { "package": "Rducks", "url": "https://github.com/RGenomicsETL/Rducks" },
     { "package": "Rfmalloc", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rfmalloc" },
     { "package": "Rggml", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rggml" },
