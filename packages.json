@@ -1,4 +1,5 @@
 [
+    { "package": "CanardAbsurd", "url": "https://github.com/RGenomicsETL/CanardAbsurd" },
     { "package": "nanonext", "url": "https://github.com/RGenomicsETL/nanonext" },
     { "package": "RBCFTools", "url": "https://github.com/RGenomicsETL/RBCFTools" },
     { "package": "RClinVarbitration", "url": "https://github.com/RGenomicsETL/RClinVarbitration" },
