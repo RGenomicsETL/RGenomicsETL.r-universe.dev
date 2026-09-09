@@ -9,6 +9,7 @@
     { "package": "Rducks", "url": "https://github.com/RGenomicsETL/Rducks" },
     { "package": "Rdragmap", "url": "https://github.com/RGenomicsETL/Rdragmap", "subdir": "Rdragmap", "branch": "main" },
     { "package": "Rfmalloc", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rfmalloc" },
+    { "package": "RfmallocStatgen", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/RfmallocStatgen" },
     { "package": "Rggml", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rggml" },
     { "package": "Rgguf", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rgguf" },
     { "package": "Rllm", "url": "https://github.com/RGenomicsETL/Rfmalloc", "subdir": "packages/Rllm" },
