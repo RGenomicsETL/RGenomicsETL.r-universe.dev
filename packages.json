@@ -2,7 +2,7 @@
     { "package": "CanardAbsurd", "url": "https://github.com/RGenomicsETL/CanardAbsurd" },
     { "package": "nanonext", "url": "https://github.com/RGenomicsETL/nanonext" },
     { "package": "RBCFTools", "url": "https://github.com/RGenomicsETL/RBCFTools" },
-    { "package": "RClinVarbitration", "url": "https://github.com/RGenomicsETL/RClinVarbitration" },
+    { "package": "RClinVarbitration", "url": "https://github.com/RGenomicsETL/DuckClinVarbitration", "subdir": "r/RClinVarbitration" },
     { "package": "Rbebelm", "url": "https://github.com/RGenomicsETL/Rbebelm" },
     { "package": "Rduckhts", "url": "https://github.com/RGenomicsETL/duckhts", "subdir": "r/Rduckhts" },
     { "package": "Rducksassy", "url": "https://github.com/RGenomicsETL/ducksassy", "subdir": "r/Rducksassy", "branch": "main" },
