@@ -5,6 +5,7 @@
     { "package": "RClinVarbitration", "url": "https://github.com/RGenomicsETL/DuckClinVarbitration", "subdir": "r/RClinVarbitration" },
     { "package": "Rbebelm", "url": "https://github.com/RGenomicsETL/Rbebelm" },
     { "package": "Rduckhts", "url": "https://github.com/RGenomicsETL/duckhts", "subdir": "r/Rduckhts" },
+    { "package": "Rduckvep", "url": "https://github.com/RGenomicsETL/DuckVEP", "subdir": "r/Rduckvep" },
     { "package": "Rducksassy", "url": "https://github.com/RGenomicsETL/ducksassy", "subdir": "r/Rducksassy", "branch": "main" },
     { "package": "RGlimpse2", "url": "https://github.com/RGenomicsETL/RGlimpse2", "subdir": "RGlimpse2" },
     { "package": "Rducks", "url": "https://github.com/RGenomicsETL/Rducks" },
