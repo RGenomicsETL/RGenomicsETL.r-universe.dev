@@ -21,6 +21,6 @@
     { "package": "Rtskit", "url": "https://github.com/RGenomicsETL/Rtskit" },
     { "package": "Rzarrs", "url": "https://github.com/RGenomicsETL/Rzarrs" },
     { "package": "XCNV", "url": "https://github.com/RGenomicsETL/XCNV" },
-    { "package": "ducksemantics", "url": "https://github.com/RGenomicsETL/ducksemantics" },
+    { "package": "ducksemantics", "url": "https://github.com/RGenomicsETL/ducksemantics", "branch": "r-package" },
     { "package": "rho", "url": "https://github.com/RGenomicsETL/Rho" }
 ]
